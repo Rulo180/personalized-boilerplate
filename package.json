@@ -1,0 +1,19 @@
+{
+  "name": "personalized-boilerplate",
+  "version": "1.0.0",
+  "description": "Personalized boilerplate for React projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rulo180/personalized-boilerplate.git"
+  },
+  "author": "Rulo180",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rulo180/personalized-boilerplate/issues"
+  },
+  "homepage": "https://github.com/Rulo180/personalized-boilerplate#readme"
+}
